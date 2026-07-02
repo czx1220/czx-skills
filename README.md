@@ -130,6 +130,13 @@ cp -r czx-paper-writing ~/.claude/skills/
   </a>
 </p>
 
+**IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization**
+<p align="left">
+  <a href='https://arxiv.org/abs/2605.24659'>
+    <img src='https://img.shields.io/badge/Arxiv-2605.24659-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
+  </a>
+</p>
+
 ## 致谢
 
 - [Superpowers](https://github.com/obra/superpowers) — 初期构思阶段的灵感来源和得力工具
